@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "TechNova", "location": "Bangalore", "industry": "IT Services" },
+  { "id": 2, "name": "GreenLeaf", "location": "Hyderabad", "industry": "Agriculture" },
+  { "id": 3, "name": "FinEdge", "location": "Mumbai", "industry": "Finance" },
+  { "id": 4, "name": "EduSmart", "location": "Delhi", "industry": "Education" },
+  { "id": 5, "name": "Healthify", "location": "Pune", "industry": "Healthcare" },
+  { "id": 6, "name": "BuildMate", "location": "Chennai", "industry": "Construction" },
+  { "id": 7, "name": "EcoWatt", "location": "Kolkata", "industry": "Energy" },
+  { "id": 8, "name": "Foodies", "location": "Delhi", "industry": "Food & Beverages" },
+  { "id": 9, "name": "SoftLabs", "location": "Bangalore", "industry": "Software" },
+  { "id": 10, "name": "AutoMax", "location": "Pune", "industry": "Automobile" }
+]
